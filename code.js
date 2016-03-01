@@ -1,6 +1,6 @@
 $(function(){
     $.ajax({
-        //ajax method to load the board.json and call the loadBoard() function on success
+        //ajax method to load the board.json and call the loadBoard on success
         'async': false,
         'global': false,
         type:'GET',
@@ -62,6 +62,7 @@ function loadBoard(){
         //add column
         var div_class = 'category col-md-' + column_width;
         if (i === 0 && columns % 2 != 0){
+            // adjust for unven number of columms
             div_class += ' col-md-offset-1';
         }
         board.append('<div class="'+div_class+'" id="cat-'+i+'" data-category="'+i+'"></div>');
@@ -84,6 +85,7 @@ function handleAnswer(){
         // hide empty the tile, mike it unclickable, update the score if correct, and hide the modal
         var tile= $('div[data-category="'+$(this).data('category')+'"]>[data-question="'+$(this).data('question')+'"]')[0];
         $(tile).empty().removeClass('unanswered').unbind().css('cursor','not-allowed');
+        // if the user answerd correctyl add to score
         if ($(this).data('correct')){
             score += parseInt($(this).data('value'));
         }
