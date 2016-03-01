@@ -22,3 +22,7 @@ body {
 .panel-body{
     background-color: #00B7FF;
 }
+
+#score, H4{
+    font-size: larger;
+}
