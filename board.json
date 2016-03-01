@@ -90,6 +90,29 @@
           }
         ]
       }
+    ,
+      {
+        "value": 500,
+        "question": "Question 4 in An urrainn dhut for 400 points",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      }
     ]
   },
   {
@@ -163,6 +186,28 @@
       },
       {
         "value": 400,
+        "question": "Question 4 in Dè do bheachd for 400 points",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "value": 500,
         "question": "Question 4 in Dè do bheachd for 400 points",
         "answers": [
           {
@@ -275,6 +320,28 @@
             "correct": false
           }
         ]
+      },
+      {
+        "value": 500,
+        "question": "Question 4 in An teaghlach agam for 400 points",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
       }
     ]
   },
@@ -368,6 +435,28 @@
             "correct": false
           }
         ]
+      },
+      {
+        "value": 500,
+        "question": "Question 4 in ’S e for 400 points",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
       }
     ]
   },
@@ -442,6 +531,28 @@
       },
       {
         "value": 400,
+        "question": "Question 4 in Gam for 400 points",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "value": 500,
         "question": "Question 4 in Gam for 400 points",
         "answers": [
           {
