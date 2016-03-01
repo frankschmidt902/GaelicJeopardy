@@ -62,7 +62,7 @@ function loadBoard(){
         //add column
         var div_class = 'category col-md-' + column_width;
         if (i === 0 && columns % 2 != 0){
-            // adjust for unven number of columms
+            // adjust for uneven number of columms
             div_class += ' col-md-offset-1';
         }
         board.append('<div class="'+div_class+'" id="cat-'+i+'" data-category="'+i+'"></div>');
@@ -72,6 +72,7 @@ function loadBoard(){
             column.append('<div class="well question unanswered" data-question="'+n+'">'+question.value+'</div>')
         });
     });
+    // render below
     $('.panel-heading').append('<div class="clearfix"></div>')
 
 }
