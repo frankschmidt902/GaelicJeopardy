@@ -4,110 +4,88 @@
     "questions": [
       {
         "value": 100,
-        "question": "1.	Can he play football/soccer?",
+        "question": "Question 1 in An urrainn dhut for 100 points",
         "answers": [
           {
-            "text": "a.	‘S urrainn dhuinn ball-coise a chluich?",
-            "correct": false
-          },
-          {
-            "text": "An urrainn dha ball-coise a chluich?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "An urrainn dhi ball-coise a chluich?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "a.	‘S urrainn dhomh ball-coise a chluich?",
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 200,
-        "question": "We can speak Gaelic",
+        "question": "Question 2 in An urrainn dhut for 200 points",
         "answers": [
           {
-            "text": "‘S urrainn dhuinn Gàidhlig a bhruidhinn",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "‘S urrainn dhuinn a bhruidhinn Gàidhlig",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "‘S urrainn dhaibh a bhruidhinn Gàidhlig",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "‘S urrainn dhaibh Gàidhlig a bhruidhinn",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 300,
-        "question": "Can she play the fiddle?",
+        "question": "Question 3 in An urrainn dhut for 300 points",
         "answers": [
           {
-            "text": "An urrainn dha seinn air an fhidheal?",
-            "correct": false
-          },
-          {
-            "text": "An urrainn dhi fidheal?",
-            "correct": false
-          },
-          {
-            "text": "An urrainn dha fidheal?",
-            "correct": false
-          },
-          {
-            "text": "An urrainn dhi seinn air an fhidheal?",
+            "text": "A",
             "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
           }
         ]
       },
       {
         "value": 400,
-        "question": "You can’t go to the store tomorrow!",
+        "question": "Question 4 in An urrainn dhut for 400 points",
         "answers": [
           {
-            "text": "Chan urrainn dhomh a dhol dhan stòr a-màireach!",
-            "correct": false
-          },
-          {
-            "text": "Chan urrainn dhut a dhol dhan stòr an-diugh!",
-            "correct": false
-          },
-          {
-            "text": "Chan urrainn dhut a dhol dhan stòr a-màireach!",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Chan urrainn dhi dhol dhan stòr an-diugh!",
-            "correct": false
-          }
-        ]
-      },
-      {
-        "value": 500,
-        "question": "They can’t dance",
-        "answers": [
-          {
-            "text": "a.	Chan urrainn dhaibh dannsadh.",
-            "correct": true
-          },
-          {
-            "text": "Chan urrainn dhuibh dannsadh.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "‘S urrainn dhaibh dannsadh.",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "a.	‘S urrainn dhuibh dannsadh.",
+            "text": "D",
             "correct": false
           }
         ]
@@ -119,110 +97,88 @@
     "questions": [
       {
         "value": 100,
-        "question": "I think it is cold today.",
+        "question": "Question 1 in Dè do bheachd for 100 points",
         "answers": [
           {
-            "text": "a.	Tha mi an dùil gu bheil i fuar an-diugh.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Cha chreid mi gu bheil i fuar an-diugh.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "a.	Tha mi an dùil gu bheil i fuar a-nochd.",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "a.	Cha chreid mi nach eil i fuar a-nochd.",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 200,
-        "question": "I don’t believe that you aren’t right!",
+        "question": "Question 2 in Dè do bheachd for 200 points",
         "answers": [
           {
-            "text": "Cha chreid mi gu bheil thu ceart!",
-            "correct": false
-          },
-          {
-            "text": "Cha chreid mi nach eil thu ceart!",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Cha chreid mi gu bheil sibh ceàrr!",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Cha chreid e nach eil thu ceàrr!",
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 300,
-        "question": "I think Hector will be there tonight.",
+        "question": "Question 3 in Dè do bheachd for 300 points",
         "answers": [
           {
-            "text": "Tha mi a’ smaointinn gum bi Eachann ann a-nochd.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Tha mi a’ smaointinn nach bi Eachann ann a-nochd.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Tha mi a’ smaointinn gur e Eachann ann a-nochd.",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "a.	Tha mi a’ smaointinn gu bheil Eachann ann a-nochd.",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 400,
-        "question": "I think Joan was at the house last night.",
+        "question": "Question 4 in Dè do bheachd for 400 points",
         "answers": [
           {
-            "text": "Tha mi an dùil gu bheil Seonag aig an taigh a-raoir.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi an dùil gur e Seonag aig an taigh a-raoir.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi an dùil gun robh Seonag aig an taigh a-raoir.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Tha mi an dùil nach robh Seonag aig an taigh a-raoir.",
-            "correct": false
-          }
-        ]
-      },
-      {
-        "value": 500,
-        "question": "I don’t believe that he won’t be in class Monday.",
-        "answers": [
-          {
-            "text": "Cha chreid mi nach bi e anns a’ chlas Diluain.",
-            "correct": true
-          },
-          {
-            "text": "Cha chreid mi gum bi e anns a’ chlas Diluain.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Cha chreid mi gun robh e anns a’ chlas Diluain.",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "Cha chreid mi gun urrainn e anns a’ chlas Diluain.",
+            "text": "D",
             "correct": false
           }
         ]
@@ -234,110 +190,88 @@
     "questions": [
       {
         "value": 100,
-        "question": "Where is your grandmother from?",
+        "question": "Question 1 in An teaghlach agam for 100 points",
         "answers": [
           {
-            "text": "Cò às a tha seanmhair?",
-            "correct": false
-          },
-          {
-            "text": "Cò às a tha do sheanair",
-            "correct": false
-          },
-          {
-            "text": "Cò às a tha seanair?",
-            "correct": false
-          },
-          {
-            "text": "Cò às a tha do sheanmhair?",
+            "text": "A",
             "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
           }
         ]
       },
       {
         "value": 200,
-        "question": "My mother:",
+        "question": "Question 2 in An teaghlach agam for 200 points",
         "answers": [
           {
-            "text": "M’athair",
-            "correct": false
-          },
-          {
-            "text": "Mo mhàthair",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "D’ athair",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Do mhàthair",
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 300,
-        "question": "Is there Gaelic at your sister?",
+        "question": "Question 3 in An teaghlach agam for 300 points",
         "answers": [
           {
-            "text": "A bheil Gàidhlig aig do phiuthar?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "A bheil Gàidhlig aig mo phiuthar?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "A bheil Gàidhlig ann mo phiuthar?",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "A bheil Gàidhlig agam?",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 400,
-        "question": "What job does your father have?",
+        "question": "Question 4 in An teaghlach agam for 400 points",
         "answers": [
           {
-            "text": "Dè ‘n obair a th’ aig m’athair?",
-            "correct": false
-          },
-          {
-            "text": "Dè ‘n obair a th’ aig d’athair?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Dè ‘n obair a th’ aig do mhàthair?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Dè ‘n obair a th’ aig mo mhàthair?",
-            "correct": false
-          }
-        ]
-      },
-      {
-        "value": 500,
-        "question": "My father is full of Gaelic!",
-        "answers": [
-          {
-            "text": "Tha m’athair làn Gàidhlig!",
-            "correct": true
-          },
-          {
-            "text": "Tha mo mhàthair làn Gàidhlig!",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "Tha e làn Gàidhlig!",
-            "correct": false
-          },
-          {
-            "text": "Tha d’athair làn Gàidhlig!",
+            "text": "D",
             "correct": false
           }
         ]
@@ -349,110 +283,88 @@
     "questions": [
       {
         "value": 100,
-        "question": "He is a great man!",
+        "question": "Question 1 in ’S e for 100 points",
         "answers": [
           {
-            "text": "‘S e duine gasta a th’ ann!",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "‘S e duine glic a th’ ann!",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "‘S e duine leisg a th’ ann!",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "‘S e duine gòrach a th’ ann!",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 200,
-        "question": "She is a lazy woman.",
+        "question": "Question 2 in ’S e for 200 points",
         "answers": [
           {
-            "text": "‘S e boireannach thapaidh a th’ innte.",
-            "correct": false
-          },
-          {
-            "text": "‘S e boireannach laghach a th’ ann.",
-            "correct": false
-          },
-          {
-            "text": "‘Se boireannach glic a th’ annta.",
-            "correct": false
-          },
-          {
-            "text": "‘S e boireannach leisg a th’ innte.",
+            "text": "A",
             "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
           }
         ]
       },
       {
         "value": 300,
-        "question": "She is a student.",
+        "question": "Question 3 in ’S e for 300 points",
         "answers": [
           {
-            "text": "‘S e oileanach a th’ annam.",
-            "correct": false
-          },
-          {
-            "text": "‘S e oileanach a th’ annta.",
-            "correct": false
-          },
-          {
-            "text": "‘S e oileanach a th’ innte.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "‘S e oileanach a th’ ann.",
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 400,
-        "question": "We are Gaels",
+        "question": "Question 4 in ’S e for 400 points",
         "answers": [
           {
-            "text": "‘S e Gàidheil a th’ anninn.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "‘S e Gàidheil a th’ innte.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "‘S e Gàidheil a th’ annaibh.",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "‘S e Gàidheil a th’ annam.",
-            "correct": false
-          }
-        ]
-      },
-      {
-        "value": 500,
-        "question": "He is a fisherman.",
-        "answers": [
-          {
-            "text": "‘S e iasgair a th’ annam.",
-            "correct": false
-          },
-          {
-            "text": "‘S e iasgair a th’ ann.",
-            "correct": true
-          },
-          {
-            "text": "‘S e oileanach a th’ ann.",
-            "correct": false
-          },
-          {
-            "text": "‘S e saor a th’ ann.",
+            "text": "D",
             "correct": false
           }
         ]
@@ -464,110 +376,88 @@
     "questions": [
       {
         "value": 100,
-        "question": "I understand her",
+        "question": "Question 1 in Gam for 100 points",
         "answers": [
           {
-            "text": "Tha mi ga tuigsinn.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi ga thuigsinn.",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "Tha mi gur tuigsinn.",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "Tha thu gam thuigsinn.",
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 200,
-        "question": "Do you hear us?",
+        "question": "Question 2 in Gam for 200 points",
         "answers": [
           {
-            "text": "A bheil thu gar cluinntinn?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "A bheil thu gam chluinntinn?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "A bheil thu ga chluinntinn?",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "A bheil thu gad chluinntinn?",
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 300,
-        "question": "Do you see me?",
+        "question": "Question 3 in Gam for 300 points",
         "answers": [
           {
-            "text": "A bheil thu gad fhacinn?",
-            "correct": false
-          },
-          {
-            "text": "A bheil thu gam fhacinn?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "A bheil thu ga fhacinn?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "A bheil thu fhacinn?",
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
             "correct": false
           }
         ]
       },
       {
         "value": 400,
-        "question": "I recognize them.",
+        "question": "Question 4 in Gam for 400 points",
         "answers": [
           {
-            "text": "Tha mi ga aithneachadh.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi gur n-aithneachadh.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi ga h-aithneachadh.",
-            "correct": false
-          },
-          {
-            "text": "Tha mi gan aithneachadh.",
-            "correct": true
-          }
-        ]
-      },
-      {
-        "value": 500,
-        "question": "Do you recognize me?",
-        "answers": [
-          {
-            "text": "A bheil thu gam aithneachadh?",
+            "text": "A",
             "correct": true
           },
           {
-            "text": "A bheil thu gad aithneachadh?",
+            "text": "B",
             "correct": false
           },
           {
-            "text": "A bheil thu ga aithneachadh?",
+            "text": "C",
             "correct": false
           },
           {
-            "text": "A bheil thu gur n-aithneachadh?",
+            "text": "D",
             "correct": false
           }
         ]
